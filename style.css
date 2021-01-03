@@ -1,6 +1,7 @@
 body
 {
     font-family: 'Open Sans', sans-serif;
+    margin: 0px;
 }
 h1
 {
@@ -23,4 +24,13 @@ h1
 .first_section img
 {
     width: 70%;
+}
+.top-banner
+{
+    background-image: url(top-banner.png);
+  background-repeat: no-repeat;
+}
+section
+{
+    height: 400px;
 }
